@@ -1,0 +1,13 @@
+
+Vsquid:S1481%"3Remove this unused "navigationView" local variable.(üûÍøÿÿÿÿ8¨şäü®-
+Msquid:S1905"*Remove this unnecessary cast to "Toolbar".(ªü–ıÿÿÿÿ8‚ÔÉü®-
+esquid:S1854%"BRemove this useless assignment to local variable "navigationView".(üûÍøÿÿÿÿ8¨şäü®-
+O
+squid:S1065"9Replace this use of System.out or System.err by a logger.(†ÒéÄ
+nsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(Áï»çùÿÿÿÿ8ŒÙæü®-
+Rsquid:S1905"/Remove this unnecessary cast to "DrawerLayout".(ĞÍè¨şÿÿÿÿ8¨şäü®-
+T
+squid:S1060"9Replace this use of System.out or System.err by a logger.(›Ôéƒûÿÿÿÿ
+Tsquid:S1905%"1Remove this unnecessary cast to "NavigationView".(üûÍøÿÿÿÿ8¨şäü®-
+Nsquid:S1481"+Remove this unused "drawer" local variable.(ĞÍè¨şÿÿÿÿ8ˆçü®-
+]squid:S1854":Remove this useless assignment to local variable "drawer".(ĞÍè¨şÿÿÿÿ8ˆçü®-

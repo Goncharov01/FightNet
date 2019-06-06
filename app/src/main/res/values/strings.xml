@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FightnetClient</string>
+    <string name="email">r.lukashenko@mail.ru</string>
+    <string name="password">9</string>
+    <string name="overview">Overview</string>
+    <string name="message">Messages</string>
+    <string name="notifications">Notifications</string>
+    <string name="map">Map</string>
+    <string name="search">Search</string>
+    <string name="notebook">Notebook</string>
+    <string name="invites">Invites</string>
+    <string name="fights">Fights</string>
+    <string name="videos">Videos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+</resources>

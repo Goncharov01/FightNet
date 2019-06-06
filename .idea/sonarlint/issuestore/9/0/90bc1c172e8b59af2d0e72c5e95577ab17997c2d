@@ -1,0 +1,4 @@
+
+Rsquid:EmptyStatementUsageCheck"Remove this empty statement.(Åñ­õþÿÿÿÿ8™™Çú®-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûÌõ£ùÿÿÿÿ
+`squid:UselessImportCheck"5Remove this unused import 'com.example.fightnet.App'.(œ»ˆŒ8™™Çú®-

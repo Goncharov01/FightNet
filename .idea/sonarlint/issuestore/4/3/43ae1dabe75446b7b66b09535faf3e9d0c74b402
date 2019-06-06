@@ -1,0 +1,13 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãÔı¡øÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(º µÛ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ü¼
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(º µÛ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûÌõ£ùÿÿÿÿ
+rsquid:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(ìé™Êûÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãÔı¡øÿÿÿÿ
